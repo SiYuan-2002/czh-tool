@@ -1,7 +1,7 @@
 # czh-tool 快速开发框架工具
 
 
-# [文档中心](http://czh.znunwm.top)
+# [文档中心]
 ### 介绍
 czh-tool 基于SpringBoot一款快速单体框架里面集成了快速开发需要的环境架构代码集成工具
 
